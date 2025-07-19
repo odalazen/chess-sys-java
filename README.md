@@ -28,4 +28,5 @@ java application/Program
 <img src="images\image4.png" alt="Intro" width="1000">
 
 #### O programa consiste em dois layers, em que um é a parte mais "crua", chamado Board Layer, ou Camada de Tabuleiro, na qual os parâmetros como a posição são escritas como forma de matriz. É onde as informações mais cruas estão.
-#### O Chess Layer, ou Camada de Xadrez, é onde situa as informações sobre a partida de xadrez como: tratamento de excessões, peças do xadrez, posições que no Board Layer são descritas como forma de matriz são convertidas para a linguagem do xadrez.
+#### O Chess Layer, ou Camada de Xadrez, é onde situa as informações sobre a partida de xadrez como: tratamento de excessões, peças do xadrez, posições que no Board Layer são descritas como forma de matriz são convertidas para a linguagem do xadrez:
+#### mat[1][1] = mat(b,6)
