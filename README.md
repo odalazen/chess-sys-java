@@ -9,9 +9,15 @@ Este é um projeto de um jogo de xadrez feito em Java, utilizando as premissas d
 
 ## Como rodar
 1. Depois de instalar a JVM na máquina, extraia o projeto em alguma pasta (caso preferível também pode cloná-lo)
-<img src="images\image2.png" alt="Intro" width="200">
 
-2. Abra o terminal no caminho
+    <img src="images\image2.png" alt="Intro" width="400">
+
+2. Execute o arquivo compilar.bat
+
+    <img src="images\image5.png" alt="Intro" width="400">
+
+
+3. Acesse e abra o terminal no caminho
 ```bash
 ...\chess_system\bin
 ```
@@ -20,7 +26,7 @@ Este é um projeto de um jogo de xadrez feito em Java, utilizando as premissas d
 java application/Program
 ```
 
-<img src="images\image3.png" alt="Intro" width="200">
+<img src="images\image3.png" alt="Intro" width="400">
 
 
 # DIAGRAMA UML
